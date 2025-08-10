@@ -150,6 +150,3 @@ std::cout << "Idle resources: " << pool.idleCount() << "\n";
 
 ---
 
-Do you want me to make a **graphical lifecycle diagram** for this so it’s easier for newcomers to visualize how `acquire → use → release → (optional) free/restore` works?
-It would make the README look even more professional.
-
